@@ -1,20 +1,23 @@
-Bài tập 2 - Tính toán số nguyên - Deadline 30.5
 
-# Link submission: https://courses.ctda.hcmus.edu.vn/mod/assign/view.php?id=83675
+# Bài tập 2 - Tính toán số nguyên - Deadline 30.5
 
-# Opened: Friday, 24 May 2024, 12:00 AM
+### Link submission: https://courses.ctda.hcmus.edu.vn/mod/assign/view.php?id=83675
 
-# Due: Thursday, 30 May 2024, 11:00 PM
+### Opened: Friday, 24 May 2024, 12:00 AM
 
-# Requirements:
+### Due: Thursday, 30 May 2024, 11:00 PM
 
-**1. Sử dụng kỹ thuật xử lý bit viết chương trình thực hiện các yêu cầu sau:**
+---
 
-- Nhập vào số nguyên X (4 byte) có dấu hãy "đọc" dãy bit nhị phân của X và xuất ra màn hình.
+## Requirements
 
-- Cho mảng 1 chiều A gồm 32 phần tử là các số 0 hoặc 1. Hãy xây dựng số nguyên X 4 byte có các bit giống với các phần tử mảng A, sau đó xuất X ra màn hình.
+1. Sử dụng kỹ thuật xử lý bit viết chương trình thực hiện các yêu cầu sau:
 
-**2. Viết chương trình Nhập vào 2 dãy bit 8 bit (ở dạng bù 2). Hãy thực hiện các phép tính cộng, trừ,nhân, chia trên 2 dãy bit đã nhập (Lưu ý: thực hiện theo thuật toán đã học).**
+   - Nhập vào số nguyên X (4 byte) có dấu hãy "đọc" dãy bit nhị phân của X và xuất ra màn hình.
+
+   - Cho mảng 1 chiều A gồm 32 phần tử là các số 0 hoặc 1. Hãy xây dựng số nguyên X 4 byte có các bit giống với các phần tử mảng A, sau đó xuất X ra màn hình.
+
+2. Viết chương trình Nhập vào 2 dãy bit 8 bit (ở dạng bù 2). Hãy thực hiện các phép tính cộng, trừ,nhân, chia trên 2 dãy bit đã nhập (Lưu ý: thực hiện theo thuật toán đã học).
 
 ## BÁO CÁO: ĐÂY LÀ PHẦN BẮT BUỘC SV KHÔNG THỰC HIỆN SẼ KHÔNG ĐƯỢC CHẤM ĐIỂM
 
